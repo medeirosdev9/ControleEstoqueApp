@@ -1,0 +1,16 @@
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\bin\Release\net8.0-windows\ControleEstoqueApp.exe
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\bin\Release\net8.0-windows\ControleEstoqueApp.deps.json
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\bin\Release\net8.0-windows\ControleEstoqueApp.runtimeconfig.json
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\bin\Release\net8.0-windows\ControleEstoqueApp.dll
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\bin\Release\net8.0-windows\ControleEstoqueApp.pdb
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.Form1.resources
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.csproj.GenerateResource.cache
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.AssemblyInfoInputs.cache
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.AssemblyInfo.cs
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.csproj.CoreCompileInputs.cache
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.dll
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\refint\ControleEstoqueApp.dll
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.pdb
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.genruntimeconfig.cache
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ref\ControleEstoqueApp.dll
