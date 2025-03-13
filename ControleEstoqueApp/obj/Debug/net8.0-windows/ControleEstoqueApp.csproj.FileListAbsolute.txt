@@ -141,3 +141,4 @@ C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueAp
 C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Debug\net8.0-windows\ControleEstoqueApp.csproj.AssemblyReference.cache
 C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Debug\net8.0-windows\ControleEstoqueApp.FrmControleDeEstoque.resources
 C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Debug\net8.0-windows\Controle.44A905B5.Up2Date
+C:\Users\gabriel_medeiros8\Documents\GitHub\ControleEstoqueApp\ControleEstoqueApp\obj\Debug\net8.0-windows\ControleEstoqueApp.sourcelink.json

@@ -128,7 +128,7 @@
             // 
             // btnExcluir
             // 
-            btnExcluir.Location = new Point(497, 99);
+            btnExcluir.Location = new Point(659, 66);
             btnExcluir.Name = "btnExcluir";
             btnExcluir.Size = new Size(75, 23);
             btnExcluir.TabIndex = 12;
@@ -139,9 +139,9 @@
             // dtgEstoque
             // 
             dtgEstoque.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dtgEstoque.Location = new Point(662, 48);
+            dtgEstoque.Location = new Point(497, 121);
             dtgEstoque.Name = "dtgEstoque";
-            dtgEstoque.Size = new Size(592, 355);
+            dtgEstoque.Size = new Size(409, 290);
             dtgEstoque.TabIndex = 13;
             dtgEstoque.CellDoubleClick += dtgEstoque_CellDoubleClick;
             // 
@@ -221,7 +221,7 @@
             // 
             // btnModoEscuro
             // 
-            btnModoEscuro.Location = new Point(1179, 12);
+            btnModoEscuro.Location = new Point(666, 12);
             btnModoEscuro.Name = "btnModoEscuro";
             btnModoEscuro.Size = new Size(75, 23);
             btnModoEscuro.TabIndex = 23;
@@ -233,7 +233,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1266, 450);
+            ClientSize = new Size(987, 450);
             Controls.Add(btnModoEscuro);
             Controls.Add(label2);
             Controls.Add(btnExportarCSV);
